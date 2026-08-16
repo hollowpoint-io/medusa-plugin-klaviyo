@@ -2,7 +2,7 @@
 
 [Klaviyo](https://www.klaviyo.com) for [Medusa](https://medusajs.com) v2: Started Checkout / Placed Order events, consent sync, and a honeypot newsletter endpoint.
 
-Maintained by [Hollowpoint](https://hollowpoint.io). MIT licensed.
+Authored by Billy Mahmood. Maintained by [Hollowpoint](https://hollowpoint.io). MIT licensed.
 
 ## Install
 

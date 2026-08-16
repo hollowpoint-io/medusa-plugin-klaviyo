@@ -2,7 +2,7 @@
   "name": "@hollowpoint-io/medusa-plugin-klaviyo",
   "version": "0.1.0",
   "description": "Klaviyo events, consent sync, and newsletter subscribe for Medusa v2.",
-  "author": "Hollowpoint <https://hollowpoint.io>",
+  "author": "Billy Mahmood <https://hollowpoint.io>",
   "license": "MIT",
   "homepage": "https://hollowpoint.io",
   "repository": {
