@@ -8,8 +8,6 @@ Authored by Billy Mahmood. Maintained by [Hollowpoint](https://hollowpoint.io). 
 
 ```bash
 npm install @hollowpoint-io/medusa-plugin-klaviyo
-# or, until the package is on npm:
-npm install github:hollowpoint-io/medusa-plugin-klaviyo
 ```
 
 ```ts
